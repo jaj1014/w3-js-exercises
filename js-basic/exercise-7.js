@@ -1,4 +1,10 @@
 //Exercise 7 Javascript function to find in which year the 1st of January will be a Sunday
+//////I tried to create a function for this exercise.
+//////The loop portion should be enough to accomplish the task
+
+//////This example doesn't work right now.
+//////Tried in chrome JS console and was getting an error
+//////Gonna have to dig in on this one later.
 
 function dayByDate(day, date, month, start, end) {
   var dayTable = {sunday: 0, monday: 1, tuesday: 2, wednesday: 3, thursday: 4, friday: 5, saturday: 6};
