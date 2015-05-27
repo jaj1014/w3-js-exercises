@@ -1,6 +1,7 @@
 //Exercise 7 Javascript function to find in which year the 1st of January will be a Sunday
 
-//This example solves the exercise, but isn't reusable. My re-usable version isn't working quite right..
+//This example solves the exercise, but isn't reusable. My re-usable version (bottom) isn't working quite right..
+//For now this is solved - I might come back to the bottom attempt
 function getSunday() {
   
   for(var year = 2014; year <= 2050; year++) {
@@ -12,7 +13,7 @@ function getSunday() {
   }
 }
 
-//////This example doesn't work right now.
+//////The below example doesn't work right now.
 //////Tried in chrome JS console and was getting an error
 //////Gonna have to dig in on this one later.
 
