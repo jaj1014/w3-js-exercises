@@ -39,8 +39,8 @@ function dayByDate(day, date, month, start, end) {
     //Check to see if the argument date is the current date
     if(dayTable.lowerDay == checkDate.getDay())
     //do something if it is
- 			console.log(month + " " + date + " " + yr + " is the first " + day + " that will happen between " + start + " and " + end );
- 		else
+      console.log(month + " " + date + " " + yr + " is the first " + day + " that will happen between " + start + " and " + end );
+    else
       //do something if it isn't
       console.log("Sorry. That didn't work");
 	}
