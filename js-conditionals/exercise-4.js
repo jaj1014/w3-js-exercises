@@ -11,6 +11,6 @@ function greatestOfFive(a, b, c, d, e) {
   } else if(d>a && d>b && d>c && d>e) {
     alert(d);
   } else {
-    alert(f);
+    alert(e);
   }
 }
